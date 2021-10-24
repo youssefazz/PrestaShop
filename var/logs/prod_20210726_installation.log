@@ -1,0 +1,5 @@
+*ERROR* 	v1.7.7.5	2021/07/26 - 22:33:02: Array
+(
+    [0] => Cannot install module "ps_metrics"
+)
+

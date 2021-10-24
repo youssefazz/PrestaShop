@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.7.5	2021/07/27 - 08:34:17:  at line 136 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.7.5	2021/07/27 - 09:52:38: Property CategorieTestClass-&gt;cat_img is empty. at line 1045 in file classes/ObjectModel.php
